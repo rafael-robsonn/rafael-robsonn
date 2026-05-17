@@ -10,13 +10,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-robsonn)&nbsp;
-[![Gmail](https://img.shields.io/badge/rafael@chesin.com.br-1a1a2e?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:rafael@chesin.com.br)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-robson)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:rafaelrobsonnunesdearaujo@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/@rafael--robsonn-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-robsonn)
 
 </div>
-
-<br/>
 
 ---
 
@@ -34,9 +32,9 @@ study  : Data Science & ML @ CEUB + USP
 status : building
 ```
 
-Fundei a **Chesin** com duas frentes — uma automatiza pipelines de dados com IA, a outra reinventa mobilidade urbana com frotas elétricas inteligentes.
+I founded **Chesin** with two bets — one automates data pipelines with AI, the other reinvents urban mobility with intelligent electric fleets.
 
-Não faço demo. Faço sistema.
+No demos. Real systems.
 
 </td>
 <td width="48%" valign="top">
@@ -69,7 +67,7 @@ currently = {
 <td width="50%" valign="top">
 
 ### ⬡ [DataSM](https://github.com/rafael-robsonn)
-> Agente de IA que gera, revisa e sobe pipelines de dados em produção sem humano no loop. Framework **dual-brain**: LangGraph como orquestrador + Claude como Reviewer. Decision Layer substitui merge por weighted-blend. dbt + BigQuery como wedge.
+> AI agent that writes, reviews and deploys production data pipelines without a human in the loop. **Dual-brain** framework: LangGraph as orchestrator + Claude as Reviewer. Decision Layer replaces the flawed weighted-blend merge. dbt + BigQuery as the initial wedge.
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logo=chainlink&logoColor=90caf9)
@@ -81,7 +79,7 @@ currently = {
 <td width="50%" valign="top">
 
 ### ⬡ [ChesinBus](https://github.com/rafael-robsonn)
-> Gestão inteligente de frotas híbridas e elétricas para mobilidade urbana. Telemetria em tempo real, otimização de rotas e manutenção preditiva. Foco em mercados emergentes.
+> Intelligent fleet management for hybrid and electric buses. Real-time telemetry, route optimization, and predictive maintenance at scale. Built for emerging markets.
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
 ![Spark](https://img.shields.io/badge/Spark-1a1a2e?style=flat-square&logo=apachespark&logoColor=E25A1C)
@@ -94,7 +92,7 @@ currently = {
 <td width="50%" valign="top">
 
 ### ⬡ [gemma-cli](https://github.com/rafael-robsonn)
-> CLI em Rust com streaming, subcommands e runtime flags integrando Gemma 4 E4B via Ollama. Construído navegando constraints de toolchain do Rust.
+> Rust CLI with streaming, subcommands and runtime flags integrating Gemma 4 E4B via Ollama. Subcommands: `ask`, `chat`, `models`, `info`. Flags: `--host`, `--model`, `--temperature`, `--system`.
 
 ![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=flat-square&logo=rust&logoColor=CE422B)
 ![Ollama](https://img.shields.io/badge/Ollama-1a1a2e?style=flat-square&logo=ollama&logoColor=white)
@@ -103,7 +101,7 @@ currently = {
 <td width="50%" valign="top">
 
 ### ⬡ [Language Quest](https://github.com/rafael-robsonn)
-> App gamificado de aprendizado de línguas em React. Sistema de progressão, quizzes adaptativos e feedback em tempo real.
+> Gamified language learning app in React. Progression system, adaptive quizzes and real-time feedback.
 
 ![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -113,14 +111,15 @@ currently = {
 </table>
 
 <details>
-<summary><b>+ outros projetos</b></summary>
+<summary><b>+ more projects</b></summary>
 
 <br/>
 
-| Projeto | Descrição | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **Java Forum App** | Aplicação MVC completa com autenticação, threads e testes end-to-end | Java, Spring, PostgreSQL, Tomcat, DBUnit, Selenium |
-| **nlp-regras-basico** | Notas de estudo: BoW, TF-IDF, Word2Vec, GloVe, RNN, LSTM, GRU | Python, PyTorch |
+| **Java Forum App** | Full MVC application with auth, threads, points system and end-to-end tests | Java, Spring, PostgreSQL, Tomcat, DBUnit, Selenium |
+| **nlp-regras-basico** | Study notes: BoW, TF-IDF, Word2Vec, GloVe, RNN, LSTM, GRU + NLPortugues/USP labs | Python, PyTorch |
+| **DataSM Code Review** | Automated code review dashboard with dual-agent pipeline (Reviewer + Critic) and 5-stage real-time WebSocket flow | React, Python, WebSocket |
 
 </details>
 
@@ -128,16 +127,38 @@ currently = {
 
 ## `> cat hackathons.log`
 
-<!-- 
-  ⚡ Adicione seus hackathons aqui no formato abaixo:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Evento | Posição | Prêmio | Stack |
-|---|---|---|---|
-| **Nome do Hackathon** | 🥇 1º lugar | Descrição do prêmio | Tech usada |
+### 🏆 Transforming Enterprise Through AI — 2026
 
--->
+**Project: Tessera**
 
-> _seção em construção — resultados a caminho_
+> The trust layer for enterprise AI agents. Real-time multi-agent threat chain detection, LGPD compliance enforcement and cryptographically-signed audit trails. Policy engine with regulatory basis, DPO settings, RoPA (Art. 37) and a SOC-grade dark UI built for long sessions.
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![LGPD](https://img.shields.io/badge/LGPD_Compliance-1a1a2e?style=flat-square&logo=shieldsdotio&logoColor=90caf9)
+![Cryptography](https://img.shields.io/badge/Audit_Chain-1a1a2e?style=flat-square&logo=keycdn&logoColor=90caf9)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 AMD Developer Hackathon — 2026
+
+**Team: TokenBurners**
+
+> Automated code review system powered by AI. Adversarial dual-agent pipeline (Reviewer + Critic) in 5 stages with real-time feedback via WebSocket. Issues classified by severity: critical, major, minor, suggestion.
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![WebSocket](https://img.shields.io/badge/WebSocket-1a1a2e?style=flat-square&logo=socketdotio&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-1a1a2e?style=flat-square&logo=amd&logoColor=ED1C24)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -154,7 +175,7 @@ currently = {
 </div>
 
 <details>
-<summary><b>breakdown completo</b></summary>
+<summary><b>full breakdown</b></summary>
 
 <br/>
 
@@ -189,7 +210,7 @@ currently = {
 
 <div align="center">
 
-<sub>sistemas que funcionam quando ninguém tá olhando</sub>
+<sub>systems that work when no one's watching</sub>
 
 <br/><br/>
 
