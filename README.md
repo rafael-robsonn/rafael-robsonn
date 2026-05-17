@@ -32,7 +32,7 @@ study  : Data Science & ML @ CEUB + USP
 status : building
 ```
 
-I founded **Chesin** with two bets — one automates data pipelines with AI, the other reinvents urban mobility with intelligent electric fleets.
+I founded **Chesin** with two bets one automates data pipelines with AI, the other reinvents urban mobility with intelligent electric fleets.
 
 No demos. Real systems.
 
@@ -131,7 +131,7 @@ currently = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Transforming Enterprise Through AI — 2026
+### Transforming Enterprise Through AI — 2026
 
 **Project: Tessera**
 
@@ -145,7 +145,7 @@ currently = {
 </td>
 <td width="50%" valign="top">
 
-### 🏆 AMD Developer Hackathon — 2026
+### AMD Developer Hackathon — 2026
 
 **Team: TokenBurners**
 
