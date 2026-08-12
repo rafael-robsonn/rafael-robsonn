@@ -247,21 +247,6 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 <br/>
 
 ---
-
-## ◈ Trophies
-
-<div align="center">
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rafael-robsonn&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
 ## ◈ Stats
 
 <div align="center">
