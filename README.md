@@ -259,7 +259,7 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-robsonn&bg_color=0d1117&color=64b5f6&line=1a237e&point=64b5f6&area=true&area_color=1a237e&hide_border=true&radius=6" />
 
-</div>
+<div align="center">
 
 <br/>
 
