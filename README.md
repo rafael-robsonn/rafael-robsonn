@@ -253,9 +253,6 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafael-robsonn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=1a237e&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=rafael-robsonn&theme=dark&hide_border=true&background=0D1117&stroke=1a237e&ring=64b5f6&fire=64b5f6&currStreakNum=ffffff&sideNums=64b5f6&currStreakLabel=64b5f6&sideLabels=c9d1d9&dates=c9d1d9" />
-
 <br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-robsonn&bg_color=0d1117&color=64b5f6&line=1a237e&point=64b5f6&area=true&area_color=1a237e&hide_border=true&radius=6" />
@@ -264,7 +261,7 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 
 <br/>
 
-![My GitHub Game](gam.gif)
+![My GitHub Game](game.gif)
 
 ---
 
