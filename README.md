@@ -9,6 +9,7 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=900&color=64B5F6&center=true&vCenter=true&multiline=true&width=700&height=50&lines=CEO+%40+Chesin+%E2%80%94+AI+%26+Data+Engineer+%7C+Brasília%2C+BR;building+pipelines+that+ship+themselves)](https://github.com/rafael-robsonn)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Founder+%40+Chesin;Building+AI%2FML+products;Data+Science+%40+UniCEUB)
 
 <br/>
 
@@ -36,7 +37,7 @@
 role   : CEO, Chesin
 focus  : AI-native data engineering
 base   : Brasília, DF — Brazil
-study  : Data Science & ML @ CEUB + USP
+study  : Data Science & ML @CEUB
 status : building
 ```
 
@@ -250,10 +251,11 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 ## ◈ Stats
 
 <div align="center">
+ <br/>
+  
+<img width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=rafael-robsonn&background=0d1117&border=0d1117&stroke=64b5f6&ring=1a237e&fire=64b5f6&currStreakLabel=64b5f6&hide_border=true" />
 
 <br/>
-
-<br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-robsonn&bg_color=0d1117&color=64b5f6&line=1a237e&point=64b5f6&area=true&area_color=1a237e&hide_border=true&radius=6" />
 
@@ -274,3 +276,6 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
+
+
+
