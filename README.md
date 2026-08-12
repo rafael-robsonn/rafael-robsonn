@@ -264,6 +264,8 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 
 <br/>
 
+![My GitHub Game](gam.gif)
+
 ---
 
 <div align="center">
