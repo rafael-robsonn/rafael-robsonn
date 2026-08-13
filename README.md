@@ -253,11 +253,7 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 <div align="center">
  <br/>
   
-<img width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=rafael-robsonn&background=0d1117&border=0d1117&stroke=64b5f6&ring=1a237e&fire=64b5f6&currStreakLabel=64b5f6&hide_border=true" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-robsonn&bg_color=0d1117&color=64b5f6&line=1a237e&point=64b5f6&area=true&area_color=1a237e&hide_border=true&radius=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-robsonn&theme=transparent" alt="Profile Summary Card"/>
 
 <div align="center">
 
@@ -276,6 +272,3 @@ Automated code review system powered by adversarial AI. Dual-agent pipeline (Rev
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
-
-
-
