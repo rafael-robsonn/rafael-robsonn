@@ -176,6 +176,45 @@ Reads real availability, matches service to professional, books and confirms. Bu
 </tr>
 </table>
 
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ kestrel-mm &nbsp; `[rust]`
+
+> **Statistical market maker, ITCH 5.0 bytes to quote in ~163 ns.**
+
+ITCH 5.0 feed into an L3 order book, SIMD microstructure features (OFI, VPIN, micro-price), an extended Kalman filter for fair value and a GBDT toxicity model, quoting through Avellaneda-Stoikov. Zero heap allocation on the hot path, enforced by a counting-allocator test. `unsafe` limited to the SPSC ring and the TSC clock. Property tests check the book against a reference implementation.
+
+**5.96 M msg/s** on the 3-thread pipeline, pinned cores.
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B)
+![SIMD](https://img.shields.io/badge/AVX--512-0d1117?style=flat-square&logo=intel&logoColor=64b5f6)
+![ITCH](https://img.shields.io/badge/ITCH_5.0-0d1117?style=flat-square&logo=quantconnect&logoColor=64b5f6)
+
+[`kestrel-mm`](https://github.com/rafael-robsonn/kestrel-mm)
+
+</td>
+<td width="50%" valign="top">
+
+### ⬡ almgren-abm-rl &nbsp; `[rust]`
+
+> **Optimal execution with recurrent PPO on an agent-based limit order book.**
+
+Deterministic discrete-event exchange with five agent types, validated against stylized facts, plus an Almgren-Chriss baseline calibrated on the simulator itself. A GRU actor-critic trained with PPO in `burn`, all in one Rust process with no Python boundary. On 2,048 held-out episodes the policy beats the calibrated baseline by 0.49 bps of implementation shortfall (paired, 9.9 standard errors). Limitations and training-seed spread are reported in the repo.
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B)
+![burn](https://img.shields.io/badge/burn-0d1117?style=flat-square&logo=rust&logoColor=E25A1C)
+![RL](https://img.shields.io/badge/PPO--GRU-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+
+[`almgren-abm-rl`](https://github.com/rafael-robsonn/almgren-abm-rl)
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>↳ more projects</b></summary>
 
