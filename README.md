@@ -191,8 +191,8 @@ ITCH 5.0 feed into an L3 order book, SIMD microstructure features (OFI, VPIN, mi
 **5.96 M msg/s** on the 3-thread pipeline, pinned cores.
 
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B)
-![SIMD](https://img.shields.io/badge/AVX--512-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
-![ITCH](https://img.shields.io/badge/ITCH_5.0-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![SIMD](https://img.shields.io/badge/AVX--512-0d1117?style=flat-square&logo=amd&logoColor=ED1C24)
+![ITCH](https://img.shields.io/badge/ITCH_5.0-0d1117?style=flat-square&logo=shieldsdotio&logoColor=64b5f6)
 
 [`kestrel-mm`](https://github.com/rafael-robsonn/kestrel-mm)
 
