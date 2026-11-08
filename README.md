@@ -53,6 +53,7 @@ No demos. Real systems.
 ```python
 currently = {
   "shipping" : "DataSM v1 — Decision Layer",
+  "training" : "ART v-carbon",
   "target"   : "≥ 85% code acceptance rate",
   "reading"  : "Designing ML Systems",
   "open_to"  : [
@@ -136,6 +137,45 @@ Real-time telemetry ingestion, route optimization, and predictive maintenance at
 </tr>
 </table>
 
+<br/>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### ⬡ ART &nbsp; `[new]`
+
+> **Typed decision model: it picks an option, and also knows when not to.**
+
+Started as a fine-tune of a multilingual base with longer context (2k), better zero-shot and calibrated option scoring, without giving up inference speed. **ART v-carbon** is the standalone rewrite: built on mmBERT-base, distilled from the v3 teacher, with kernels ported to TileLang. On top of plain classification it adds abstention, explanations, counterfactuals, batching with cache, multi-criteria scoring and uncertainty reporting.
+
+Released as freeware under the **LART** license: no commercial use, no modification, no reverse engineering.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![HuggingFace](https://img.shields.io/badge/mmBERT-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![TileLang](https://img.shields.io/badge/TileLang-0d1117?style=flat-square&logo=nvidia&logoColor=76B900)
+
+[`ART-v1`](https://github.com/rafael-robsonn/ART-v1)
+
+</td>
+<td width="40%" valign="top">
+
+### ⬡ Esmalteria Bot
+
+> **Conversational scheduling assistant for a nail salon, wired to Trinks.**
+
+Reads real availability, matches service to professional, books and confirms. Built around the messy parts of salon scheduling: services split between professionals, duration blocks and manual reshuffles when someone is out.
+
+<br/>
+
+![Trinks](https://img.shields.io/badge/Trinks_integration-0d1117?style=flat-square&logo=googlecalendar&logoColor=64b5f6)
+![LLM](https://img.shields.io/badge/LLM_agent-0d1117?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>↳ more projects</b></summary>
 
@@ -147,6 +187,11 @@ Real-time telemetry ingestion, route optimization, and predictive maintenance at
 | **Java Forum App** | Full MVC application — auth, threads, points system, end-to-end tests | Java, Spring, PostgreSQL, DBUnit, Selenium |
 | **DataSM Code Review** | Automated code review dashboard — dual-agent pipeline (Reviewer + Critic), 5-stage WebSocket flow | React, Python, WebSocket |
 | **nlp-regras-basico** | Study notes: BoW, TF-IDF, Word2Vec, GloVe, RNN, LSTM, GRU + NLPortugues/USP labs | Python, PyTorch |
+| **DER-DF Traffic EDA** | Exploratory analysis of ~6.5M traffic infractions across 83 CSVs, incremental aggregation so it runs on a laptop | Python, pandas, Jupyter |
+| **Quantum ML Lab** | Hybrid QCNN on FashionMNIST plus VQC, QAOA and quantum-kernel SVM. Controlled protocols, ablations and null results reported as they came out | PennyLane, PyTorch |
+| **TaskTracker** | Task manager in 3 phases: logic design, Git workflow, Docker | Python, Docker |
+| **Tessera Rivs AI** | Hackathon build grown into a full app: React front wired to 44 FastAPI routes, i18n, settings drawer, audit chain | React, FastAPI |
+| **War Modpack** | Minecraft LAN modpack where each friend runs a nation: trade, raids, alliances, final war. Tuned to run on 8 GB RAM | Minecraft |
 
 </details>
 
