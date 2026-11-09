@@ -215,6 +215,30 @@ Deterministic discrete-event exchange with five agent types, validated against s
 </tr>
 </table>
 
+<br/>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ⬡ convex &nbsp; `[rust]`
+
+> **Multi-hop arbitrage across CEX order books and Uniswap v2/v3 pools, sized and risk-gated in about 1 µs per event.**
+
+The market is a directed multigraph with concave swap functions as edges. Negative cycles in `-ln f'(0)` are found by an incremental SPFA, sized with Brent's method on the composed cycle, then filtered by a Clayton / Student-t copula mispricing gate when a leg executes off-chain. Every plan is re-priced with EVM-exact integer math (Q64.96 tick math, U256) before it is emitted.
+
+**1.06 µs mean, 3.7 µs P99** end to end on a 400k-step deterministic replay with injected gaps and anomalies. All gaps detected and resynced. Models run in `f64`, execution in integers, and the repo documents why.
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B)
+![Uniswap](https://img.shields.io/badge/Uniswap_v2%2Fv3-0d1117?style=flat-square&logo=uniswap&logoColor=FF007A)
+![Tokio](https://img.shields.io/badge/Tokio-0d1117?style=flat-square&logo=rust&logoColor=64b5f6)
+
+[`convex`](https://github.com/rafael-robsonn/convex)
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>↳ more projects</b></summary>
 
